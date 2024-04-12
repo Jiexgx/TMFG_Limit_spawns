@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 9,
-		"description": "Lots of QOL recipes for the Create mod."
+		"pack_format": 14,
+		"description": "Limit TFMG Oil to Cold/Desert."
 	}
 }
