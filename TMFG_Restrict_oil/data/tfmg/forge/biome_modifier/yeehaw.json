@@ -1,7 +1,17 @@
 {
   "replace": "true",
   "type": "forge:add_features",
-  "biomes": "#minecraft:is_desert",
+  "biomes":[
+    "minecraft:snowy_plains",
+    "minecraft:ice_spikes",
+    "minecraft:frozen_ocean",
+    "minecraft:snowy_taiga",
+    "minecraft:frozen_river",
+    "minecraft:snowy_beach",
+    "minecraft:frozen_peaks",
+    "minecraft:jagged_peaks",
+    "minecraft:snowy_slopes",
+    "minecraft:desert"],
   "features": "tfmg:oil_deposit",
   "step": "underground_ores"
 }
