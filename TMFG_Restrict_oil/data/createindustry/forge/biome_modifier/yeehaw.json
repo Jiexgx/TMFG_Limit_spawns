@@ -1,9 +1,6 @@
 {
   "type": "forge:add_features",
-  "biomes": 
-  "#minecraft:is_cold/overworld", 
-  "#minecraft:is_desert",
-  "features":
- "createindustry:oil_deposit",
+  "biomes": [ "#minecraft:is_cold/overworld", "#minecraft:is_desert/overworld"],
+  "features": "createindustry:oil_deposit",
   "step": "underground_ores"
 }
