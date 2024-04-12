@@ -1,0 +1,7 @@
+{
+  "replace": "true",
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_desert",
+  "features": "tfmg:oil_deposit",
+  "step": "underground_ores"
+}
